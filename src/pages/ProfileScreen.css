@@ -32,6 +32,8 @@
 
 .profileScreen__plans {
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
 .profileScreen__plans > h3 {
